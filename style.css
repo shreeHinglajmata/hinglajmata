@@ -1,0 +1,33 @@
+.navbar h1{
+    text-align: left;
+    color: aliceblue;
+    padding: 1px;
+    margin: 100;
+    
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(189, 4%, 36%);
+    background-size: auto;
+    padding: 0px;
+    margin: 1px;
+    overflow: hidden;
+height: 50px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 17px;
+    margin: 100;
+    
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: hsl(278, 23%, 68%);
+
+}
+.navbar li{
+float: right;
+}
